@@ -1,0 +1,12 @@
+{
+  "name": "veterinaireMobile",
+  "displayName": "veterinaireMobile",
+  "expo": {
+    "name": "veterinaireMobile",
+    "slug": "veterinaireMobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
